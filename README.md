@@ -26,5 +26,6 @@ python3 Generator.py
 ```
 ## Description :
 A tool for Shell access to the system
+And the ability to save files as pyw or exe
 
 #### Discord : Asylum
