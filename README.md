@@ -1,4 +1,4 @@
-# Reverse Shell V 1.0
+# Reverse Shell V1.0
 ## Run : 
 ### Linux
 ```
